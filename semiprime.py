@@ -1,7 +1,5 @@
 '''
-
-
-
+Finds if a number is a semiprime
 '''
 class Solution:
 
