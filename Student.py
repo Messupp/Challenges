@@ -1,6 +1,5 @@
 '''
-[5,3,2,2,3,5,4,6,9,6,4,12,8,9,12]
-8
+Finds the singleton in a list of pairs.
 '''
 class Solution:
 
