@@ -1,3 +1,7 @@
+'''
+Types in Star Wars character and says how many films they've been in
+'''
+
 import urllib.request
 import urllib.parse
 import json
