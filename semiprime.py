@@ -4,9 +4,6 @@ Finds if a number is a semiprime
 class Solution:
 
 	def run(self, number):
-		#
-		# Write your code below; return type and arguments should be according to the problem's requirements
-		#
 		isSemiprime = 'false'
 		cons = 10**8
 		if number > cons:
