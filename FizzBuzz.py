@@ -1,10 +1,9 @@
 '''
-3 is fizz
-5 is buzz
-both is fizzbuzz
+FizzBuzz Challenge
+If number is divisible by 3 - Fizz
+If number is divisible by 5 - Buzz
+If number is divisible by 3 and 5 - FizzBuzz
 
-5,15
-Buzz,Fizz,7,8,Fizz,Buzz,11,Fizz,13,14,FizzBuzz
 
 '''
 
