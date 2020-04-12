@@ -1,3 +1,7 @@
+'''
+Types in Star Wars character and says film names and other characters in the film.
+'''
+
 import urllib.request
 import urllib.parse
 import json
