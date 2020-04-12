@@ -1,4 +1,7 @@
 '''
+Predicts who would win in a GoT style battle. Input is the number of dragons and number of White Walkers, then the output is the
+team that wins and after how many rounds
+
 Input:
 "Seven Kingdom Army",4,1
 
