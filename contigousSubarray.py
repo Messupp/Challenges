@@ -1,3 +1,7 @@
+'''
+Find max value of a contigous subarray
+'''
+
 class Solution:
 
 	def run(self, a):
