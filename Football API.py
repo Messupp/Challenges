@@ -1,3 +1,7 @@
+'''
+Uses API to find team and see how many goals they scored that season
+'''
+
 import urllib.request
 import urllib.parse
 import json
