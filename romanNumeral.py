@@ -49,4 +49,4 @@ class Solution:
 		print(n_in_roman_alphabet)
 		return n_in_roman_alphabet
 
-Solution.run("", 20)
+Solution.run("", 9999)
